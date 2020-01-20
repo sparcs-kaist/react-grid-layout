@@ -1,4 +1,4 @@
-# @sparcs-kaist/React-Grid-Layout
+# @sparcs-kaist/react-grid-layout
 
 ## Acknowledgments
 
@@ -11,9 +11,9 @@ Be careful when using features other than that such as resizing.
 ### Node Module
 
 ```
-yarn add @sparcs-kaist/React-Grid-Layout
+yarn add @sparcs-kaist/react-grid-layout
 ```
 
 ```
-npm i --save @sparcs-kaist/React-Grid-Layout
+npm i --save @sparcs-kaist/react-grid-layout
 ```
