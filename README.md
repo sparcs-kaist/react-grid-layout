@@ -23,12 +23,12 @@ npm i --save @sparcs-kaist/react-grid-layout
 
 - Compact both vertically and horizontally
 - Vertical line changing on compaction
-- Auto resizing layout items following first item
+- Resize layout items following first item
 
-## Tradeoff
+## Tradeoffs
 
-- Layout items with identical size only
-- Compact type cannot be changed
+- Only layout items with identical size is supported
+- Compact type cannot be changed anymore
 
 ## Acknowledgments
 
